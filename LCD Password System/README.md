@@ -19,7 +19,7 @@ Users must enter a password to gain access.
 ## 💡 How it works
 - User enters password '1234'
 - Press # to confirm
-- * clears input
+- '*' clears input
 - If correct → Welcome screen
 - If wrong → attempts decrease
 
