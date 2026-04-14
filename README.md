@@ -33,7 +33,7 @@ Each project folder typically includes:
 
 ## 📂 Projects List
 
-### 1️⃣ Keypad + LCD Password System
+### 1️⃣ LCD Password System
 A simple security system where users enter a password using a keypad and see feedback on an LCD screen.
 
 **Concepts used:**
@@ -41,6 +41,13 @@ A simple security system where users enter a password using a keypad and see fee
 - LCD display control
 - Basic authentication logic
 
+### 2️⃣ Smart Obstacle Detection Glasses
+A prototype assistive system designed to detect obstacles using ultrasonic sensors and alert the user.
+
+**Concepts used:**
+- Distance measurement (Ultrasonic sensor)
+- Multi-sensor logic
+- Buzzer alerts
 ---
 
 ## 🛠 Tools Used
